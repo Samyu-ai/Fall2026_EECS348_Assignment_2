@@ -14,8 +14,7 @@
  *     with the assignment analysis. No Copilot code is copied directly here.
  *   - Anthropic Claude generated the second Python comparison program. Its
  *     MaxHeap organization and priority-key idea were used as a conceptual basis.
- *   - OpenAI ChatGPT helped translate, test, comment, and improve the final C
- *     implementation. All final code was reviewed and adapted by the author.
+ * - ChatGPT to help understand buzzwords and vocabulary 
  *   - C standard library documentation: https://en.cppreference.com/w/c
  */
 
