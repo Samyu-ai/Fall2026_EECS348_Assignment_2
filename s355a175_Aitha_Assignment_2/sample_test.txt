@@ -1,0 +1,12 @@
+EMAIL Peer,Can you help me on this?,12-01-2024
+EMAIL OtherPerson,Try our product,12-19-2024
+EMAIL Boss,Important,12-20-2024
+EMAIL Subordinate,How do I handle this?,12-25-2024
+EMAIL ImportantPerson,Health Insurance Enrollment,12-31-2024
+EMAIL Boss,Never Mind,01-03-2025
+COUNT
+NEXT
+READ
+NEXT
+READ
+COUNT
